@@ -13,6 +13,5 @@ function [period, a_max] = myCollatz(a0)
             end           
         end
         period = period + 1;
-    end  
-    
+    end      
 end
